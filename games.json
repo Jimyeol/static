@@ -1,0 +1,10 @@
+[
+    {
+      "title": "룰렛 돌리기",
+      "gameCode": "roulette",
+      "description": "룰렛 돌려!",
+      "limitPlayer": 2,
+      "hashTagCode": ["hitmiss", "easy"],
+      "recommend": true
+    }
+  ]
