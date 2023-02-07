@@ -7,5 +7,32 @@
       "limitPlayer": 2,
       "hashTagCode": ["hitmiss", "easy"],
       "recommend": true
+    },
+    {
+        "title": "인물맞추기",
+        "gameCode": "correthuman",
+        "description": "인물 맞춰보장",
+        "gameImage": "https://raw.githubusercontent.com/Jimyeol/static/master/test_pig.png",
+        "limitPlayer": 2,
+        "hashTagCode": ["speed", "easy"],
+        "recommend": true
+    },
+    {
+        "title": "라이어게임",
+        "gameCode": "lier",
+        "description": "거짓말 치는 사람 누구",
+        "gameImage": "https://raw.githubusercontent.com/Jimyeol/static/master/test_pig.png",
+        "limitPlayer": 3,
+        "hashTagCode": ["speed", "easy"],
+        "recommend": true
+    },
+    {
+        "title": "테스트게임",
+        "gameCode": "test01",
+        "description": "test01",
+        "gameImage": "https://raw.githubusercontent.com/Jimyeol/static/master/test_pig.png",
+        "limitPlayer": 2,
+        "hashTagCode": ["test01", "test02"],
+        "recommend": false
     }
   ]
