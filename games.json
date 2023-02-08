@@ -14,7 +14,7 @@
         "description": "인물 맞춰보장",
         "gameImage": "https://raw.githubusercontent.com/Jimyeol/static/master/test_pig.png",
         "limitPlayer": 2,
-        "hashTagCode": ["speed", "easy"],
+        "hashTagCode": ["enjoy", "easy"],
         "recommend": true
     },
     {
@@ -32,7 +32,7 @@
         "description": "test01",
         "gameImage": "https://raw.githubusercontent.com/Jimyeol/static/master/test_pig.png",
         "limitPlayer": 2,
-        "hashTagCode": ["test01", "test02"],
+        "hashTagCode": ["enjoy", "test02"],
         "recommend": false
     }
   ]
