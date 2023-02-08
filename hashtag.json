@@ -1,5 +1,10 @@
 [
     {
+        "hashTagCode": "all",
+        "title": "전체",
+        "color": "#3ab39c"
+    },
+    {
         "hashTagCode": "hitmiss",
         "title": "복불복",
         "color": "#ffffff"
