@@ -12,7 +12,7 @@
         "title": "인물맞추기",
         "gameCode": "personquiz.PersonQuizActivity",
         "description": "인물 맞춰보장",
-        "gameImage": "https://raw.githubusercontent.com/Jimyeol/static/master/test_pig.png",
+        "gameImage": "https://raw.githubusercontent.com/Jimyeol/static/master/GameImage/test_pig.png",
         "limitPlayer": 2,
         "hashTagCode": ["enjoy", "easy"],
         "recommend": true
