@@ -9,12 +9,12 @@
       "recommend": true
     },
     {
-        "title": "인물맞추기",
+        "title": "인물 퀴즈",
         "gameCode": "personquiz.PersonQuizActivity",
-        "description": "인물 맞춰보장",
+        "description": "신서유기에서 등장했던 그 게임! \"알거 같은데...?\" 여러분들이 알고 있는 인물은 몇이나 될까요? 알듯말듯 차마 뱉어내지 못했던 그 인물! 그 인물의 이름을 빨리 맞춰 보세요.",
         "gameImage": "https://raw.githubusercontent.com/Jimyeol/static/master/GameImage/personquiz_info_image.png",
         "limitPlayer": 2,
-        "hashTagCode": ["enjoy", "easy"],
+        "hashTagCode": ["speed", "famous"],
         "recommend": true
     },
     {

@@ -13,5 +13,15 @@
         "hashTagCode": "enjoy",
         "title": "😹 즐거움",
         "color": "#ff00ff"
+    },
+    {
+        "hashTagCode": "speed",
+        "title": "🐆 순발력",
+        "color": "#eeb8b8"
+    },
+    {
+        "hashTagCode": "famous",
+        "title": "📺 유명한",
+        "color": "#b57fb3"
     }
 ]
